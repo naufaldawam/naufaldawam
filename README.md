@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Naufal
+#### I am junior backend engginer
+Although I am not a graduate from an IT engineering college, I can compete with them as a junior to middle software engineer (Backend)
 
-<!--
-**naufaldawam/naufaldawam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / JAVA / GOLANG
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Bootcamp participant alterra academy batch 10 
+- 🌱 I’m currently learning Golang dev 
+- 📫 How to reach me: naufal.dawam.dz@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/naufaldawam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/naufal-dawam-dzikrillah-920168170//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/naufal.manar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/naufalddz/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufaldawam)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=naufaldawam)  
+
